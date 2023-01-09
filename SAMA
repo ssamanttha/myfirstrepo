@@ -1,1 +1,5 @@
-ntha
+#!/bin/bash 
+
+echo "what if "
+echo "what?"
+echo "nothing...."
